@@ -1,2 +1,2 @@
-# TestGithub-Dancing_wave-
+# TestGithub-Dancing_wave
 Test: adding a project to Github
